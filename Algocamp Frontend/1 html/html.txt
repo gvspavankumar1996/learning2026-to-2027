@@ -1,0 +1,32 @@
+HTML- hypertext markup language 
+
+***HyperText means text that contains links to other pages or resources.
+Before the web existed, documents were just plain text that you read from top to bottom. HyperText allows you to click on certain words or text and jump to another page, website, image, video, or section of the same page.
+Example
+On a webpage, you might see:
+Click here to learn React.
+The word "here" is a hyperlink. When you click it, you are taken somewhere else.
+
+
+****In HTML, markup refers to the special system of code words and symbols (called tags) used to annotate, structure, and format plain text content within a digital document.
+
+*** <!DOCTYPE html> tells type of document and html will be by default html 5
+
+
+1) block vs inline tags
+Block Tag
+Takes the full width available.
+Starts on a new line.
+Used for larger sections/layout.
+Examples: <div>, <p>, <h1>, <section>.
+
+Inline Tag
+Takes only the width of its content.
+Does not start on a new line.
+Used for styling or small pieces of content.
+Examples: <span>, <a>, <strong>, <em>.
+
+
+2) 
+
+
